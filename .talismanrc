@@ -1,0 +1,4 @@
+fileignoreconfig:
+- filename: src/index-without-debouncing.js
+  checksum: 6b9e885575ff4528bc611a28a255d86307da89b8826edfacf28f9676b0b0cdc4
+version: "1.0"
