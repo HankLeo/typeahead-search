@@ -1,4 +1,6 @@
 fileignoreconfig:
+- filename: package-lock.json
+  checksum: fca3bdd432c955fb56c760e50f066ae689176d0b3cdba92a0a6dd417bba0c86b
 - filename: src/index-without-debouncing.js
   checksum: 6b9e885575ff4528bc611a28a255d86307da89b8826edfacf28f9676b0b0cdc4
 version: "1.0"

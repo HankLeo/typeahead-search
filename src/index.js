@@ -54,7 +54,7 @@ input.addEventListener(
         resultsContainer.appendChild(resultElement);
       });
     });
-  }, 3000)
+  }, 500)
 );
 
 // Listen for clicks on the search result elements
